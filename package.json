@@ -1,0 +1,25 @@
+{
+  "name": "back-end-knowledge",
+  "version": "1.0.0",
+  "description": "knowledge of coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiRainn/back-end-knowledge.git"
+  },
+  "author": "hirainn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiRainn/back-end-knowledge/issues"
+  },
+  "homepage": "https://github.com/hiRainn/back-end-knowledge#readme",
+  "devDependencies": {
+    "markdown-it-sup": "^1.0.0",
+    "vuepress": "^1.7.1"
+  }
+}
